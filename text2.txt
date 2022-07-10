@@ -1,0 +1,3 @@
+I am learning Git commands. 
+
+Amend is used to rectify the mistakes in our file!!
